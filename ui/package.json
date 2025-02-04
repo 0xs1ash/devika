@@ -30,7 +30,7 @@
     "clsx": "^2.1.0",
     "dompurify": "^3.1.5",
     "mode-watcher": "^0.3.0",
-    "paneforge": "^0.0.3",
+    "paneforge": "^0.0.6",
     "socket.io-client": "^4.7.5",
     "svelte-sonner": "^0.3.21",
     "tailwind-merge": "^2.2.2",
