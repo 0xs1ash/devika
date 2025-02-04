@@ -34,7 +34,7 @@
     "socket.io-client": "^4.7.5",
     "svelte-sonner": "^0.3.21",
     "tailwind-merge": "^2.2.2",
-    "tailwind-variants": "^0.2.1",
+    "tailwind-variants": "^0.3.0",
     "tiktoken": "^1.0.13"
   }
 }
